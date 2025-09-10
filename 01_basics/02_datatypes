@@ -1,0 +1,20 @@
+"use strict"; //treat all JS code as newer version
+//alert(3+3)//we are using node.js not browser
+let name = "Minu"
+let age = 21
+let islogin = true
+let state;
+console.log(typeof islogin);
+console.log(typeof null);
+console.log(typeof undefined);
+console.log(typeof state)
+/*
+number=> 2 to power 53
+bigint
+string
+boolean
+null =>standalone value
+undefined => undefined
+symbol => unique
+
+*/
