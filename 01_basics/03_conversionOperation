@@ -1,0 +1,27 @@
+let score = "minu"
+let scoreInt = Number(score)
+console.log(typeof scoreInt)
+console.log(scoreInt)
+let scoreBool = 1
+let conBool = Boolean(scoreBool)
+console.log(conBool)
+//"33"=>33
+//"minu232"=>NaN
+//true => 1; false => 0
+//Operations
+let str1 = "Minu"
+let str2 = " Singh"
+let str3 = str1 + str2
+console.log(str3)
+/*
+console.log(3+3)
+console.log(3*3)
+console.log(3-3)
+console.log(3/3)
+console.log(3%3)
+*/
+console.log("1" + 2)
+console.log(1+"2")
+console.log("1" + 2 + 2)
+console.log(1 + 2 + "2")
+console.log(1 + "2" + 1)
